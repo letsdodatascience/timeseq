@@ -14,3 +14,7 @@
 
 [Learning Rate](https://towardsdatascience.com/understanding-learning-rates-and-how-it-improves-performance-in-deep-learning-d0d4059c1c10)
 
+
+
+[theretical-code driven--good video](https://www.youtube.com/watch?v=tJ-O3hk1vRw)
+
